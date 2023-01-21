@@ -1,1 +1,6 @@
-brain
+while true do
+	local part = Instance.new("Part")
+	part.Parent = game.Workspace
+	part.Anchored = false
+	wait()
+end

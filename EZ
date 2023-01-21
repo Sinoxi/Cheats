@@ -2,5 +2,5 @@ while true do
 	local part = Instance.new("Part")
 	part.Parent = game.Workspace
 	part.Anchored = false
-	part.Position = game.Workspace.LIDL.Part.Position
+	part.Position = game.Workspace["Casque GN"].Head
 end
